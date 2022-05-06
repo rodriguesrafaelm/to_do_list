@@ -2,4 +2,4 @@
 Listar coisas com marca temporal usando Python.
 
 Exemplo:
-![image](https://user-images.githubusercontent.com/79672000/167089860-d70bba27-a228-4e63-8469-4b9e55346649.png)
+![image](https://user-images.githubusercontent.com/79672000/167090122-b705fac6-e96c-430c-bed5-910c79625be0.png)
